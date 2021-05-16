@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>exploratory analysis on Yane</title>
+    <link>https://yaneholanda.github.io/portfoliods/tags/exploratory-analysis/</link>
+    <description>Recent content in exploratory analysis on Yane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Apr 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://yaneholanda.github.io/portfoliods/tags/exploratory-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting insights from Telecommunications Customer Satisfaction Survey, with Python</title>
+      <link>https://yaneholanda.github.io/portfoliods/post/project-2/</link>
+      <pubDate>Mon, 19 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://yaneholanda.github.io/portfoliods/post/project-2/</guid>
+      <description>Este artigo tem como objetivo analisar os dados disponíveis em dados.gov.br, de pesquisas de satisfação e qualidade recebida, realizadas com os clientes de operadoras de telecomunicações. Esta pesquisa foi realizada pela ANATEL. Como estudante de Engenharia de Telecomunicações, decidi utilizar Data Science para analisar os dados da minha área de atuação, a partir dos dados retirados desta página.
+ Link to Medium Article
+Link to Notebook</description>
+    </item>
+    
+  </channel>
+</rss>
