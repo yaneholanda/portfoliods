@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Science Portfolio on Home</title>
-    <link>https://yaneholanda.github.io/portfoliods/</link>
-    <description>Recent content in Data Science Portfolio on Home</description>
+    <title>Portfólio de Data Science on Início</title>
+    <link>https://yaneholanda.github.io/portfoliods/pt/</link>
+    <description>Recent content in Portfólio de Data Science on Início</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Apr 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://yaneholanda.github.io/portfoliods/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Apr 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://yaneholanda.github.io/portfoliods/pt/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting insights from Telecommunications Customer Satisfaction Survey, with Python</title>
-      <link>https://yaneholanda.github.io/portfoliods/post/project-2/</link>
+      <title>Analisando a Pesquisa de Satisfação de clientes de Telecomunicações, com Python</title>
+      <link>https://yaneholanda.github.io/portfoliods/pt/post/projeto-2/</link>
       <pubDate>Mon, 19 Apr 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://yaneholanda.github.io/portfoliods/post/project-2/</guid>
+      <guid>https://yaneholanda.github.io/portfoliods/pt/post/projeto-2/</guid>
       <description>Este artigo tem como objetivo analisar os dados disponíveis em dados.gov.br, de pesquisas de satisfação e qualidade recebida, realizadas com os clientes de operadoras de telecomunicações. Esta pesquisa foi realizada pela ANATEL. Como estudante de Engenharia de Telecomunicações, decidi utilizar Data Science para analisar os dados da minha área de atuação, a partir dos dados retirados desta página.
- Link to Medium Article
-Link to Notebook</description>
+ Vamos iniciar preparando o ambiente, com as bibliotecas adequadas a este trabalho e carregando os dados para o Notebook.</description>
     </item>
     
     <item>
-      <title>Analysing the stock exchange with python</title>
-      <link>https://yaneholanda.github.io/portfoliods/post/project-1/</link>
+      <title>Analisando ações da bolsa com Python</title>
+      <link>https://yaneholanda.github.io/portfoliods/pt/post/projeto-1/</link>
       <pubDate>Wed, 14 Apr 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://yaneholanda.github.io/portfoliods/post/project-1/</guid>
+      <guid>https://yaneholanda.github.io/portfoliods/pt/post/projeto-1/</guid>
       <description>Neste artigo, irei falar um pouco sobre como analisar ações da bolsa de valores, utilizando Data Science. Mais especificamente, utilizando a linguagem de programação Python. Por se tratar de um tema ao qual já estou familiarizada, pois possuo investimentos, decidi escrever este artigo a fim de te mostrar que é possível utilizar Data Science neste segmento.
- Link to Medium Article</description>
+ Atenção: este artigo não é uma recomendação de investimentos.
+Para começar, iremos utilizar a base de dados do Yahoo Finance para o nosso projeto.</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://yaneholanda.github.io/portfoliods/contact/</link>
+      <title>Contato</title>
+      <link>https://yaneholanda.github.io/portfoliods/pt/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yaneholanda.github.io/portfoliods/contact/</guid>
+      <guid>https://yaneholanda.github.io/portfoliods/pt/contact/</guid>
       <description>   Platform URL:     LinkedIn: https://linkedin.com/in/yaneholanda   Medium: https://yanesarmento.medium.com/   Github: https://github.com/yaneholanda/datascience-en    </description>
     </item>
     

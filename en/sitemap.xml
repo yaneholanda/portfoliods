@@ -8,8 +8,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://yaneholanda.github.io/portfoliods/fr/"
+                hreflang="pt"
+                href="https://yaneholanda.github.io/portfoliods/pt/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -21,6 +21,16 @@
     <lastmod>2021-04-19T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://yaneholanda.github.io/portfoliods/pt/tags/exploratory-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yaneholanda.github.io/portfoliods/tags/exploratory-analysis/"
+                />
   </url><url>
     <loc>https://yaneholanda.github.io/portfoliods/post/project-2/</loc>
     <lastmod>2021-04-19T11:00:59-04:00</lastmod>
@@ -31,6 +41,16 @@
     <lastmod>2021-04-19T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://yaneholanda.github.io/portfoliods/pt/tags/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yaneholanda.github.io/portfoliods/tags/python/"
+                />
   </url><url>
     <loc>https://yaneholanda.github.io/portfoliods/tags/</loc>
     <lastmod>2021-04-19T11:00:59-04:00</lastmod>
@@ -38,8 +58,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://yaneholanda.github.io/portfoliods/fr/tags/"
+                hreflang="pt"
+                href="https://yaneholanda.github.io/portfoliods/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -58,8 +78,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://yaneholanda.github.io/portfoliods/fr/post/"
+                hreflang="pt"
+                href="https://yaneholanda.github.io/portfoliods/pt/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -70,14 +90,24 @@
     <loc>https://yaneholanda.github.io/portfoliods/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://yaneholanda.github.io/portfoliods/pt/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yaneholanda.github.io/portfoliods/about/"
+                />
   </url><url>
     <loc>https://yaneholanda.github.io/portfoliods/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://yaneholanda.github.io/portfoliods/fr/categories/"
+                hreflang="pt"
+                href="https://yaneholanda.github.io/portfoliods/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -90,8 +120,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://yaneholanda.github.io/portfoliods/fr/contact/"
+                hreflang="pt"
+                href="https://yaneholanda.github.io/portfoliods/pt/contact/"
                 />
     <xhtml:link
                 rel="alternate"
