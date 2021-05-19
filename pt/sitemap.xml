@@ -2,6 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yaneholanda.github.io/portfoliods/pt/</loc>
+    <lastmod>2021-05-19T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yaneholanda.github.io/portfoliods/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://yaneholanda.github.io/portfoliods/pt/"
+                />
+  </url><url>
+    <loc>https://yaneholanda.github.io/portfoliods/pt/post/projeto-3/</loc>
+    <lastmod>2021-05-19T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://yaneholanda.github.io/portfoliods/pt/tags/python/</loc>
+    <lastmod>2021-05-19T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yaneholanda.github.io/portfoliods/tags/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://yaneholanda.github.io/portfoliods/pt/tags/python/"
+                />
+  </url><url>
+    <loc>https://yaneholanda.github.io/portfoliods/pt/tags/</loc>
+    <lastmod>2021-05-19T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yaneholanda.github.io/portfoliods/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://yaneholanda.github.io/portfoliods/pt/tags/"
+                />
+  </url><url>
     <loc>https://yaneholanda.github.io/portfoliods/pt/post/projeto-2/</loc>
     <lastmod>2021-04-19T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -20,51 +70,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://yaneholanda.github.io/portfoliods/pt/tags/exploratory-analysis/"
-                />
-  </url><url>
-    <loc>https://yaneholanda.github.io/portfoliods/pt/</loc>
-    <lastmod>2021-04-19T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://yaneholanda.github.io/portfoliods/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://yaneholanda.github.io/portfoliods/pt/"
-                />
-  </url><url>
-    <loc>https://yaneholanda.github.io/portfoliods/pt/tags/python/</loc>
-    <lastmod>2021-04-19T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://yaneholanda.github.io/portfoliods/tags/python/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://yaneholanda.github.io/portfoliods/pt/tags/python/"
-                />
-  </url><url>
-    <loc>https://yaneholanda.github.io/portfoliods/pt/tags/</loc>
-    <lastmod>2021-04-19T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://yaneholanda.github.io/portfoliods/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://yaneholanda.github.io/portfoliods/pt/tags/"
                 />
   </url><url>
     <loc>https://yaneholanda.github.io/portfoliods/pt/post/projeto-1/</loc>

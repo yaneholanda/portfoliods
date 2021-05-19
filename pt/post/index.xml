@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://yaneholanda.github.io/portfoliods/pt/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Prevendo o tipo de estrela com Machine Learning</title>
+      <link>https://yaneholanda.github.io/portfoliods/pt/post/projeto-3/</link>
+      <pubDate>Wed, 19 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://yaneholanda.github.io/portfoliods/pt/post/projeto-3/</guid>
+      <description>Este projeto tem como objetivo utilizar Machine Learning a fim de prever o tipo de estrela, de acordo com parâmetros escolhidos pelo usuário.
+ Para começar, iremos utilizar a base de dados sobre estrelas disponível no Kaggle para o nosso projeto.
+Link to Medium Article</description>
+    </item>
+    
+    <item>
       <title>Analisando a Pesquisa de Satisfação de clientes de Telecomunicações, com Python</title>
       <link>https://yaneholanda.github.io/portfoliods/pt/post/projeto-2/</link>
       <pubDate>Mon, 19 Apr 2021 11:00:59 -0400</pubDate>
