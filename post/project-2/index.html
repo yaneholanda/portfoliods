@@ -40,7 +40,7 @@
 <meta itemprop="name" content="Getting insights from Telecommunications Customer Satisfaction Survey, with Python">
 <meta itemprop="description" content="Exploratory Analysis"><meta itemprop="datePublished" content="2021-04-19T11:00:59-04:00" />
 <meta itemprop="dateModified" content="2021-04-19T11:00:59-04:00" />
-<meta itemprop="wordCount" content="14">
+<meta itemprop="wordCount" content="389">
 <meta itemprop="keywords" content="python,exploratory analysis," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Getting insights from Telecommunications Customer Satisfaction Survey, with Python"/>
 <meta name="twitter:description" content="Exploratory Analysis"/>
@@ -203,12 +203,93 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>This post is under construction. Please, hold.</p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>This article aims to analyze the data available on data.gov.br, from satisfaction and quality surveys received, carried out with customers of telecommunications operators. This survey was carried out by ANATEL.
+As a student of Telecommunications Engineering, I decided to use Data Science to analyze the data in my area of expertise, based on the data taken from this page.</p>
 <figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2img2.jpeg"/>
 </figure>
 
-<p><a href="">Link to Medium Article</a></p>
-<p><a href="">Link to Notebook</a></p>
+<p>We will start preparing the environment, with the appropriate libraries for this work and uploading the data to the Notebook.</p>
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/1%20%281%29.png"/>
+</figure>
+
+<p>Then, we will analyze the first data of the file.
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2img2.png"/>
+</figure>
+</p>
+<p>Now, let&rsquo;s start our first analyzes.<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2cod3.png"/>
+</figure>
+
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2img3.png"/>
+</figure>
+</p>
+<p>This survey carried out by Anatel took into account some different services. Let&rsquo;s find out how many and what are they?
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2cod4.png"/>
+</figure>
+
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2img4.png"/>
+</figure>
+</p>
+<p>Fixed Broadband, Fixed Telephony, Postpaid Mobile Telephony, Prepaid Mobile Telephony and Pay TV Services were taken into account. What will be the average grades given by users for these services?</p>
+<p><figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2cod5.png"/>
+</figure>
+
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2img5.png"/>
+</figure>
+</p>
+<p>This is the overall average for all services. Note that the survey took into account some indicators, as you may have noticed when we first analyzed the data. For the purposes of individual consultation, we will choose an indicator and analyze it.</p>
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2cod6.png"/>
+</figure>
+
+<p>Which operator has the best Customer Service Channels, according to users?
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2cod7.png"/>
+</figure>
+
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2img7.png"/>
+</figure>
+</p>
+<p>It is the operator &ldquo;Nossa TV&rdquo;, in the state of Rio Grande do Sul.</p>
+<p>So far, we have obtained an overview of our data. At this point, we will move on to graphical visualizations.</p>
+<p>We will use the library <a href="https://matplotlib.org/">Matplotlib</a>.
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2cod8.png"/>
+</figure>
+</p>
+<p>As we are using the Service Channels indicator, we will see the average of each one by operator.</p>
+<p><figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2cod9.png"/>
+</figure>
+
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2img9.png"/>
+</figure>
+</p>
+<p>Comparing with the scores received on all indicators, we can see a certain proximity between the two analyzes.
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2cod10.png"/>
+</figure>
+
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2img10.png"/>
+</figure>
+</p>
+<p>Are we going to find out the scores of the services evaluated in Customer Service Channels?
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2cod11.png"/>
+</figure>
+
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2img11.png"/>
+</figure>
+</p>
+<p>Now, we will choose an operator at random and perform an analysis between the years 2015–2020 of its Service Channels indicator.
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2cod12.png"/>
+</figure>
+
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2img12.png"/>
+</figure>
+</p>
+<p>We can see an increase in the grades attributed to Oi&rsquo;s Service Channels over the years, by the users of its services.
+Carrying out a more general analysis, we will analyze all operators over the years according to their services.</p>
+<p><figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2cod13.png"/>
+</figure>
+
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj2img13.png"/>
+</figure>
+</p>
+<p>We noticed an increase in the notes of the Fixed Broadband service. On the other hand, all other services had their grades decreased between 2018 and 2019. We hope that this scenario has changed for later years.</p>
 <ul class="pa0">
   
    <li class="list">
@@ -230,17 +311,6 @@
 
 
 
-
-  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
-    <p class="f5 b mb3">Related</p>
-    <ul class="pa0 list">
-	   
-	     <li  class="mb2">
-          <a href="https://yaneholanda.github.io/portfoliods/post/project-1/">Analysing the stock exchange with python</a>
-        </li>
-	    
-    </ul>
-</div>
 
 </aside>
 

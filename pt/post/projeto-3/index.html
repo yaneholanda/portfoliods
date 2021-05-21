@@ -40,8 +40,8 @@
 <meta itemprop="name" content="Prevendo o tipo de estrela com Machine Learning">
 <meta itemprop="description" content="App Web em Python"><meta itemprop="datePublished" content="2021-05-19T10:58:08-04:00" />
 <meta itemprop="dateModified" content="2021-05-19T10:58:08-04:00" />
-<meta itemprop="wordCount" content="44">
-<meta itemprop="keywords" content="python," /><meta name="twitter:card" content="summary"/>
+<meta itemprop="wordCount" content="257">
+<meta itemprop="keywords" content="Python,Machine Learning," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Prevendo o tipo de estrela com Machine Learning"/>
 <meta name="twitter:description" content="App Web em Python"/>
 
@@ -204,15 +204,49 @@
       
     </header>
     <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Este projeto tem como objetivo utilizar Machine Learning a fim de prever o tipo de estrela, de acordo com parâmetros escolhidos pelo usuário.</p>
-<figure><img src="https://yaneholanda.github.io/portfoliods/images/parametros.png"/>
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj3img1.png"/>
 </figure>
 
 <p>Para começar, iremos utilizar a base de dados sobre estrelas disponível no <a href="https://www.kaggle.com/deepu1109/star-dataset">Kaggle</a> para o nosso projeto.</p>
-<p><a href="">Link to Medium Article</a></p>
+<p>A biblioteca utilizada para o carregamento dos dados é a <a href="https://pandas.pydata.org/">Pandas</a>. Como este projeto não se trata de uma análise exploratória, iremos seguir direto para o algoritmo.</p>
+<p>Utilizaremos o <a href="http://scikit-learn.org/">Scikit-Learn</a>, &ldquo;um pacote que fornece versões eficientes de um grande número de algoritmos comuns&rdquo;, definição do livro Python Data Science Handbook.</p>
+<p>O aplicativo web foi realizado através do <a href="https://streamlit.io/">Streamlit</a>, uma maneira rápida de transformar scripts escritos em Python em aplicativos web.</p>
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj3cod1.png"/>
+</figure>
+
+<p>O projeto foi inspirado no Diagrama de Hertzsprung-Russell, desenvolvido de forma independente no início de 1900 por Ejnar Hertzsprung e Henry Norris Russell. Este diagrama traça a temperatura das estrelas e a sua luminosidade (o diagrama teórico HR), ou a cor das estrelas (ou tipo espectral) e a sua magnitude absoluta.</p>
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/HR_diagram.jpeg"/>
+</figure>
+
+<p>O usuário deverá, então, escolher os valores de parâmetros que desejar e o algoritmo irá retornar qual o tipo de estrela, de acordo com os valores escolhidos.</p>
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/parametros.png"/>
+</figure>
+
+<p>Isto pode ser feito através do script do Streamlit, onde iremos adicionar os parâmetros necessários para o projeto e os valores mínimos e máximos.</p>
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj3cod2.png"/>
+</figure>
+
+<p>O algoritmo de Machine Learning utilizado foi a Árvore de Decisão.</p>
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj3cod3.png"/>
+</figure>
+
+<p>O resultado final é um aplicativo Web escrito em Python, que combina Machine Learning e Front-End.</p>
+<figure><img src="https://yaneholanda.github.io/portfoliods/images/proj3img2.png"/>
+</figure>
+
+<p>Você pode consultar o aplicativo <a href="https://share.streamlit.io/yaneholanda/star/main/estrelas.py">aqui</a> e o código do projeto <a href="https://github.com/yaneholanda/datascience-en/blob/main/StarML/star.py">aqui</a>.</p>
+<p>Referências:
+<a href="https://astronomy.swin.edu.au/cosmos/h/hertzsprung-russell+diagram">HR Diagram</a>
+<a href="https://streamlit.io/">Streamlit</a>
+<a href="https://www.youtube.com/watch?v=Eai1jaZrRDs&amp;t=96s">Streamlit WebAPP</a></p>
 <ul class="pa0">
   
    <li class="list">
-     <a href="https://yaneholanda.github.io/portfoliods/pt/tags/python" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">python</a>
+     <a href="https://yaneholanda.github.io/portfoliods/pt/tags/python" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Python</a>
+   </li>
+  
+   <li class="list">
+     <a href="https://yaneholanda.github.io/portfoliods/pt/tags/machine-learning" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Machine Learning</a>
    </li>
   
 </ul>

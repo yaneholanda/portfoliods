@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Home</title>
+    <link>https://yaneholanda.github.io/portfoliods/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 May 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://yaneholanda.github.io/portfoliods/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predicting the star type with Machine Learning</title>
+      <link>https://yaneholanda.github.io/portfoliods/post/project-3/</link>
+      <pubDate>Wed, 19 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://yaneholanda.github.io/portfoliods/post/project-3/</guid>
+      <description>This project aims to use Machine Learning in order to predict the type of star, according to parameters chosen by the user.
+ To begin, we will use the star database available on Kaggle for our project.
+The library used for loading the data is Pandas. As this project is not an exploratory analysis, we will proceed directly to the algorithm.
+We will use Scikit-Learn, &amp;ldquo;a package that provides efficient versions of a large number of common algorithms&amp;rdquo;, definition of the book Python Data Science Handbook.</description>
+    </item>
+    
+  </channel>
+</rss>

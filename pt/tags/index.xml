@@ -8,7 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 19 May 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://yaneholanda.github.io/portfoliods/pt/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>python</title>
+      <title>Machine Learning</title>
+      <link>https://yaneholanda.github.io/portfoliods/pt/tags/machine-learning/</link>
+      <pubDate>Wed, 19 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://yaneholanda.github.io/portfoliods/pt/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
       <link>https://yaneholanda.github.io/portfoliods/pt/tags/python/</link>
       <pubDate>Wed, 19 May 2021 10:58:08 -0400</pubDate>
       
@@ -17,11 +26,20 @@
     </item>
     
     <item>
-      <title>exploratory analysis</title>
+      <title>Exploratory Analysis</title>
       <link>https://yaneholanda.github.io/portfoliods/pt/tags/exploratory-analysis/</link>
       <pubDate>Mon, 19 Apr 2021 11:00:59 -0400</pubDate>
       
       <guid>https://yaneholanda.github.io/portfoliods/pt/tags/exploratory-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Scraping</title>
+      <link>https://yaneholanda.github.io/portfoliods/pt/tags/web-scraping/</link>
+      <pubDate>Wed, 14 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://yaneholanda.github.io/portfoliods/pt/tags/web-scraping/</guid>
       <description></description>
     </item>
     

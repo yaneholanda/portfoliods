@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Scraping on Home</title>
+    <link>https://yaneholanda.github.io/portfoliods/tags/web-scraping/</link>
+    <description>Recent content in Web Scraping on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Apr 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://yaneholanda.github.io/portfoliods/tags/web-scraping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysing stock prices with Python</title>
+      <link>https://yaneholanda.github.io/portfoliods/post/project-1/</link>
+      <pubDate>Wed, 14 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://yaneholanda.github.io/portfoliods/post/project-1/</guid>
+      <description>In this article, I will talk a little bit about how to analyze stock market shares, using Data Science. More specifically, using the Python programming language. As it is a topic that I am already familiar with, as I have investments, I decided to write this article in order to show you that it is possible to use Data Science in this segment.
+ Attention: this article is not an investment recommendation.</description>
+    </item>
+    
+  </channel>
+</rss>

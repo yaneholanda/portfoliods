@@ -13,9 +13,8 @@
       <pubDate>Mon, 19 Apr 2021 11:00:59 -0400</pubDate>
       
       <guid>https://yaneholanda.github.io/portfoliods/post/project-2/</guid>
-      <description>This post is under construction. Please, hold.
- Link to Medium Article
-Link to Notebook</description>
+      <description>This article aims to analyze the data available on data.gov.br, from satisfaction and quality surveys received, carried out with customers of telecommunications operators. This survey was carried out by ANATEL. As a student of Telecommunications Engineering, I decided to use Data Science to analyze the data in my area of expertise, based on the data taken from this page.
+ We will start preparing the environment, with the appropriate libraries for this work and uploading the data to the Notebook.</description>
     </item>
     
   </channel>

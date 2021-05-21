@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Scraping on Início</title>
+    <link>https://yaneholanda.github.io/portfoliods/pt/tags/web-scraping/</link>
+    <description>Recent content in Web Scraping on Início</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Apr 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://yaneholanda.github.io/portfoliods/pt/tags/web-scraping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analisando ações da bolsa com Python</title>
+      <link>https://yaneholanda.github.io/portfoliods/pt/post/projeto-1/</link>
+      <pubDate>Wed, 14 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://yaneholanda.github.io/portfoliods/pt/post/projeto-1/</guid>
+      <description>Neste artigo, irei falar um pouco sobre como analisar ações da bolsa de valores, utilizando Data Science. Mais especificamente, utilizando a linguagem de programação Python. Por se tratar de um tema ao qual já estou familiarizada, pois possuo investimentos, decidi escrever este artigo a fim de te mostrar que é possível utilizar Data Science neste segmento.
+ Atenção: este artigo não é uma recomendação de investimentos.
+Para começar, iremos utilizar a base de dados do Yahoo Finance para o nosso projeto.</description>
+    </item>
+    
+  </channel>
+</rss>

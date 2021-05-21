@@ -6,26 +6,37 @@
     <description>Recent content in Data Science Portfolio on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Apr 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://yaneholanda.github.io/portfoliods/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 May 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://yaneholanda.github.io/portfoliods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predicting the star type with Machine Learning</title>
+      <link>https://yaneholanda.github.io/portfoliods/post/project-3/</link>
+      <pubDate>Wed, 19 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://yaneholanda.github.io/portfoliods/post/project-3/</guid>
+      <description>This project aims to use Machine Learning in order to predict the type of star, according to parameters chosen by the user.
+ To begin, we will use the star database available on Kaggle for our project.
+The library used for loading the data is Pandas. As this project is not an exploratory analysis, we will proceed directly to the algorithm.
+We will use Scikit-Learn, &amp;ldquo;a package that provides efficient versions of a large number of common algorithms&amp;rdquo;, definition of the book Python Data Science Handbook.</description>
+    </item>
+    
     <item>
       <title>Getting insights from Telecommunications Customer Satisfaction Survey, with Python</title>
       <link>https://yaneholanda.github.io/portfoliods/post/project-2/</link>
       <pubDate>Mon, 19 Apr 2021 11:00:59 -0400</pubDate>
       
       <guid>https://yaneholanda.github.io/portfoliods/post/project-2/</guid>
-      <description>This post is under construction. Please, hold.
- Link to Medium Article
-Link to Notebook</description>
+      <description>This article aims to analyze the data available on data.gov.br, from satisfaction and quality surveys received, carried out with customers of telecommunications operators. This survey was carried out by ANATEL. As a student of Telecommunications Engineering, I decided to use Data Science to analyze the data in my area of expertise, based on the data taken from this page.
+ We will start preparing the environment, with the appropriate libraries for this work and uploading the data to the Notebook.</description>
     </item>
     
     <item>
-      <title>Analysing the stock exchange with python</title>
+      <title>Analysing stock prices with Python</title>
       <link>https://yaneholanda.github.io/portfoliods/post/project-1/</link>
       <pubDate>Wed, 14 Apr 2021 10:58:08 -0400</pubDate>
       
       <guid>https://yaneholanda.github.io/portfoliods/post/project-1/</guid>
-      <description>This post is under construction. Please, hold.
- Link to Medium Article</description>
+      <description>In this article, I will talk a little bit about how to analyze stock market shares, using Data Science. More specifically, using the Python programming language. As it is a topic that I am already familiar with, as I have investments, I decided to write this article in order to show you that it is possible to use Data Science in this segment.
+ Attention: this article is not an investment recommendation.</description>
     </item>
     
     <item>
