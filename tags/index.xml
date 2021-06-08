@@ -6,11 +6,20 @@
     <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 May 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://yaneholanda.github.io/portfoliods/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 May 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://yaneholanda.github.io/portfoliods/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science at Medicine</title>
+      <link>https://yaneholanda.github.io/portfoliods/tags/data-science-at-medicine/</link>
+      <pubDate>Mon, 24 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://yaneholanda.github.io/portfoliods/tags/data-science-at-medicine/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Machine Learning</title>
       <link>https://yaneholanda.github.io/portfoliods/tags/machine-learning/</link>
-      <pubDate>Wed, 19 May 2021 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 24 May 2021 10:58:08 -0400</pubDate>
       
       <guid>https://yaneholanda.github.io/portfoliods/tags/machine-learning/</guid>
       <description></description>
@@ -19,7 +28,7 @@
     <item>
       <title>Python</title>
       <link>https://yaneholanda.github.io/portfoliods/tags/python/</link>
-      <pubDate>Wed, 19 May 2021 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 24 May 2021 10:58:08 -0400</pubDate>
       
       <guid>https://yaneholanda.github.io/portfoliods/tags/python/</guid>
       <description></description>

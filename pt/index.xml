@@ -6,7 +6,17 @@
     <description>Recent content in Portfólio de Data Science on Início</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 May 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://yaneholanda.github.io/portfoliods/pt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 May 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://yaneholanda.github.io/portfoliods/pt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Utilizando Machine Learning para detectar câncer de mama</title>
+      <link>https://yaneholanda.github.io/portfoliods/pt/post/projeto-4/</link>
+      <pubDate>Mon, 24 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://yaneholanda.github.io/portfoliods/pt/post/projeto-4/</guid>
+      <description>Este artigo foi escrito com o objetivo de analisar dados de exames de pacientes diagnosticadas com câncer de mamas e utilizar algoritmos para prever o tipo de câncer (benigno ou maligno) de acordo com os valores de teste.
+ Também conhecido como neoplasia, o câncer de mama é caracterizado pelo crescimento de células cancerígenas na mama. Segundo dados do Instituto Nacional do Câncer (INCA), é o segundo tumor mais comum entre as mulheres, atrás apenas para o câncer de pele, e o primeiro em letalidade.</description>
+    </item>
+    
     <item>
       <title>Prevendo o tipo de estrela com Machine Learning</title>
       <link>https://yaneholanda.github.io/portfoliods/pt/post/projeto-3/</link>

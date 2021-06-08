@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science at Medicine on Home</title>
+    <link>https://yaneholanda.github.io/portfoliods/tags/data-science-at-medicine/</link>
+    <description>Recent content in Data Science at Medicine on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 May 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://yaneholanda.github.io/portfoliods/tags/data-science-at-medicine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Machine Learning to Detect Breast Cancer</title>
+      <link>https://yaneholanda.github.io/portfoliods/post/project-4/</link>
+      <pubDate>Mon, 24 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://yaneholanda.github.io/portfoliods/post/project-4/</guid>
+      <description>This article was written with the aim of analyzing test data from patients diagnosed with breast cancer and using algorithms to predict the type of cancer (benign or malignant) according to the test values.
+ Also known as neoplasia, breast cancer is characterized by the growth of cancer cells in the breast. According to data from the Instituto Nacional do Câncer (INCA), it is the second most common tumor among women, second only to skin cancer, and the first in terms of lethality.</description>
+    </item>
+    
+  </channel>
+</rss>
